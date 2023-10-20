@@ -11,7 +11,6 @@ public class Task0 {
 
     /**
      * Writes "Привет, мир!" using LOGGER.info().
-     *
      */
     public static void hello() {
         String hello = new String("Привет, мир!");
